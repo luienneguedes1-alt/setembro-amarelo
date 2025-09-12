@@ -10,7 +10,7 @@ const mensagens = [
    "A vida sempre vale a pena 🌸",
    "Cuide de si mesmo(a) 😊",
    "A esperança é a luz 🤍",
-"Seu silêncio não precisa ser sua dor 🤗",
+"Seu silêncio não precisa ser sua dor 🤗"
    
 ];​
 
