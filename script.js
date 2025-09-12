@@ -17,5 +17,5 @@
       const aleatoria = mensagens[Math.floor(Math.random() * mensagens.length)];
       document.getElementById("mensagem").innerText = aleatoria;
     });
-  </script>
+  
 
