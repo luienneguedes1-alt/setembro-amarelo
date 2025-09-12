@@ -2,13 +2,13 @@ body {
    font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #DDA0DD;
+  background: #FFD700;
   color: #333;
   text-align: center;
 }
 
 header {
-  background: #FF00FF;
+  background: #FFFFE0;
   padding: 20px;
   color: #333;
 }
@@ -23,7 +23,7 @@ main {
 }
 
 button {
-  background: #BA55D3;
+  background: #F0E68C;
   color: white;
   borded: none;
   padding: 15px 25px;
@@ -34,7 +34,7 @@ button {
 }
 
 button: hover {
-   background: #DDA0DD;
+   background: #FFE4B9;
 }
 
 #mensagem {
@@ -45,7 +45,7 @@ button: hover {
 }
 
 footer {
-  background: #FF00FF;
+  background: #EEE8AA;
   padding: 10px;
   margin-top:30px;
 }
