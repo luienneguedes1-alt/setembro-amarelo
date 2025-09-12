@@ -5,8 +5,13 @@ const mensagens = [
    "Acredite: dias melhores virão ⭐",
    "Sempre existe esperança 🌈",
    "Sua vida importa ❤️​",
-   "Falar é a melhor solução", 
-   "Peça ajuda, você merece",
+   "Falar é a melhor solução ", 
+   "Peça ajuda, você merece 🗣",
+   "A vida sempre vale a pena 🌸",
+   "Cuide de si mesmo(a) 😊",
+   "A esperança é a luz 🤍",
+"Seu silêncio não precisa ser sua dor 🤗",
+   
 ];​
 
 document.getElementById("btnMensagem").addEventListener("click",() => {
